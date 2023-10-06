@@ -1,6 +1,6 @@
 # NLP to Identify High Risk ICU Readmission Patients
 
-Deep learning models have improved signicantly over the years. The evolution of natural language
+Deep learning models have improved significantly over the years. The evolution of natural language
 processing(NLP) has shown a lot of options to tackle medical analysis bottle necks that have existed
 for decades. The invention of BERT (Bidirectional Encoder Representations from Transformers)
 has opened the doors for more wide spread adoption of NLP in higher risk areas that could effect
